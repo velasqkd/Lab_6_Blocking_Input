@@ -29,7 +29,7 @@ public class CtoFConverter {
 
 
 
-
+import java.util.Scanner;
 class FuelCosts {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -59,6 +59,7 @@ class FuelCosts {
 }
 
 
+import java.util.Scanner;
 class RectangleInfo {
     public static void main(String [] args) {
         Scanner in = new Scanner(System.in);
